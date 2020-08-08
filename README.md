@@ -1,8 +1,8 @@
 <!-- Greeting -->
-# Hi there :smiley:
+# Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm Joykishan! I'm a Android Developer, looking to solve real-world problems. I'm passionate about making open-source more accessible, creating software and tools to help people, and building a community. Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.
+I'm Joykishan! I'm a Android Developer:iphone:, looking to solve real-world problems:earth_asia:. I'm passionate about making open-source more accessible, creating software:computer: and tools to help people, and building a community. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
 
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-JoykishanSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/JoykishanSharma)
@@ -15,18 +15,18 @@ I'm Joykishan! I'm a Android Developer, looking to solve real-world problems. I'
 <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 <img align="right" alt="GIF" width="500" src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/work_work_work.gif" />
 
 ### 💼  Things that I'm currently working on: 
-* Learning Front-End Web Development
-* Learning some vectors drawing by using Adobe Illustrator. 
-* Looking forward to take a Flutter course in future. 
+* Learning Front-End Web Development:computer:
+* Learning some vectors drawing by using Adobe Illustrator.:art: 
+* Looking forward to take a Flutter course in future.:calling:
 * 🔜
 
 ### 🌱 Challenges that I’m currently challenging myself:
-Since the world is in the quarantine stage, and I’m having lots of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. 
+Since the world is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
 
 * Learn to code 3-4 hours a day with no distraction ( One or two day off a week. ) 
 * Read Dev and UI articles daily
@@ -42,8 +42,8 @@ Since the world is in the quarantine stage, and I’m having lots of spare time,
     <img width="55%" height="auto" align="right" alt="Joykishan's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&theme=algolia&count_private=true" />
    <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact"
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. /> -->
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
   </a>
  
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -75,8 +75,6 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"></code>
 
 </p>
-
-
 
 ### Credit to 
 - [**GIPHY**](https://giphy.com/) and [**Slava Romanov**](https://dribbble.com/shots/3839839-Work-Work-Work) for GIFs. 
