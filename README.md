@@ -2,6 +2,21 @@
 
 I'm Joykishan! I'm a Android Developer, looking to solve real-world problems. I'm passionate about making open-source more accessible, creating software and tools to help people, and building a community. Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.
 
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
+-->
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/onimur)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/JoykishanSharma)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_comino/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:murillo_comino@hotmail.com)
+<br>
+![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
+[![HitCount](http://hits.dwyl.com/joykishansharma/https://githubcom/JoykishanSharma/JoykishanSharma.svg)](http://hits.dwyl.com/joykishansharma/https://githubcom/JoykishanSharma/JoykishanSharma)
+
+<br>
+
 ### 💼  Things that I'm currently working on: 
 * Learning Front-End Web Development
 * Taking Online Courses in Udemy, and looking forward to contribute to any open source projects. 
@@ -25,7 +40,8 @@ Since the world is in the quarantine stage, and I’m having lots of spare time,
  **Languages and Tools:** 
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="Onimur's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&hide_border=true" />
   </a>
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
@@ -43,29 +59,6 @@ Since the world is in the quarantine stage, and I’m having lots of spare time,
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-</p>
-
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
-
-<p align="center">
-  <a href="http://hits.dwyl.com/onimur/onimur" target="_blank">
-    <img align="center" alt="HitCount" src="http://hits.dwyl.com/onimur/onimur.svg" />
-  </a>
-    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=onimur.onimur" />
-</p>
--->
-
-
-**Connect with me:**
-<p align="left">
-<a href="https://www.instagram.com/vatana.chhorn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://twitter.com/vatana_chhorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/vatan4c" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://open.spotify.com/user/onlyvatana23?si=-McUZw0zTj-a8SvbVe1qZA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
-  <a href="https://www.goodreads.com/user/show/83098234-vatana-chhorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/goodreads.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
-   <a href="https://unsplash.com/@vatanachhorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unsplash.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 
 ---
