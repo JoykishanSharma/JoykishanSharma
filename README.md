@@ -78,7 +78,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 </p>
 
-# Thanks for Visiting!:innocent:
+<h4 align="center"> Thanks for Visiting!:innocent:</h4>
 
 
 ### Credit to 
