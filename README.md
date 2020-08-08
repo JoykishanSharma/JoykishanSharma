@@ -38,7 +38,7 @@ Since the world is in the quarantine stage, and I’m having lots of spare time,
 <p>
   <a href="https://github.com/JoykishanSharma?tab=repositories">
     <img width="55%" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&hide_border=true" />
+         src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true" />
   </a>
  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
