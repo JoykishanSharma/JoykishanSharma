@@ -1,11 +1,10 @@
+<!-- Greeting -->
 # Hi there :smiley:
 
+<!--Introduction -->
 I'm Joykishan! I'm a Android Developer, looking to solve real-world problems. I'm passionate about making open-source more accessible, creating software and tools to help people, and building a community. Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-
+<!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-JoykishanSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/JoykishanSharma)
 [![Telegram](https://img.shields.io/badge/-@joykishan_sharma-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/joykishan_sharma)
 [![HackerRank](https://img.shields.io/badge/-Joykishan-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/Joykishan)
@@ -13,8 +12,8 @@ You can use the website to generate badges: https://shields.io/
 [![Instagram](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joykishan_sharma)
 [![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joykishan120@gmail.com)
 
+<!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
-[![HitCount](http://hits.dwyl.com/joykishansharma/https://githubcom/JoykishanSharma/JoykishanSharma.svg)](http://hits.dwyl.com/joykishansharma/https://githubcom/JoykishanSharma/JoykishanSharma)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
@@ -41,22 +40,16 @@ Since the world is in the quarantine stage, and I’m having lots of spare time,
     <img width="55%" align="right" alt="Onimur's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&hide_border=true" />
   </a>
-  
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>i
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+ 
+<code><img height="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c#/c#.png"></code>
+<code><img height="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xml/xml.png"></code>
+<code><img height="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>
 </p>
 
 ---
