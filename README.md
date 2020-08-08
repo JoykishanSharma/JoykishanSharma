@@ -7,7 +7,8 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/JoykishanSharma)
-[![HackerRank](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white)](https://www.hackerrank.com/Joykishan)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-islamicgreen?style=flat&logo=HackeRank&logoColor=white)](https://www.hackerrank.com/Joykishan)
+[![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@joykishan120)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joykishan_sharma)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joykishan120@gmail.com)
 
@@ -16,10 +17,8 @@ You can use the website to generate badges: https://shields.io/
 
 ### 💼  Things that I'm currently working on: 
 * Learning Front-End Web Development
-* Taking Online Courses in Udemy, and looking forward to contribute to any open source projects. 
-* Learning some vectors drawing by using Adobe Illustrator.
-* Inquiring more about UI/UX.  
-* Looking forward to take a Progressive Web App Development course in future. 
+* Learning some vectors drawing by using Adobe Illustrator. 
+* Looking forward to take a Flutter course in future. 
 * 🔜
 
 ### 🌱 Challenges that I’m currently challenging myself:
