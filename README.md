@@ -38,9 +38,10 @@ Since the world is in the quarantine stage, and I’m having lots of spare time,
 <p>
   <a href="https://github.com/JoykishanSharma?tab=repositories">
     <img width="55%" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&count_private=true" />
-    <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma" />
+         src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&theme=algolia&count_private=true" />
+    <!--<img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact"
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. />-->
   </a>
  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
