@@ -8,31 +8,33 @@ I'm Joykishan! I'm a Android Developer:iphone:, looking to solve real-world prob
 [![Linkedin](https://img.shields.io/badge/-JoykishanSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/JoykishanSharma)
 [![Telegram](https://img.shields.io/badge/-@joykishan_sharma-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/joykishan_sharma)
 [![HackerRank](https://img.shields.io/badge/-Joykishan-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/Joykishan)
+[![HackerRank](https://img.shields.io/badge/-Joykishan-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/Joykishan)
 [![Medium](https://img.shields.io/badge/-@joykishan120-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@joykishan120)
 [![Instagram](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joykishan_sharma)
 [![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joykishan120@gmail.com)
 
 <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
+[![Google Playstore](https://img.shields.io/badge/-Joy_Apps_Developers_Team-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 <img align="right" alt="GIF" width="500" src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/work_work_work.gif" />
 
 ### 💼  Things that I'm currently working on: 
-* Learning Front-End Web Development:computer:
-* Learning some vectors drawing by using Adobe Illustrator.:art: 
-* Looking forward to take a Flutter course in future.:calling:
+* Learning Front-End Web:computer: Development
+* Learning some vectors drawing:art: by using Adobe Illustrator.
+* Looking forward to take a Flutter:calling: course in future.
 * 🔜
 
 ### 🌱 Challenges that I’m currently challenging myself:
 Since the world is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
 
-* Learn to code 3-4 hours a day with no distraction ( One or two day off a week. ) 
-* Read Dev and UI articles daily
-* Workout 3 days in a row and take a day break 
-* Avoid spending too much time on Youtube Entertainment
-* Write Medium Article on weekends
+* Learn to code:man_technologist: 3-4 hours a day with no distraction ( One or two day off a week. ) 
+* Read:newspaper: Dev and UI articles daily 
+* Workout:weight_lifting_man: 3 days in a row and take a day break 
+* Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
+* Write Medium Article:page_facing_up: on weekends 
 * Adapting the minimalism life style
 * 🔜
 
@@ -75,6 +77,9 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"></code>
 
 </p>
+
+# Thanks for Visiting!:innocent:
+
 
 ### Credit to 
 - [**GIPHY**](https://giphy.com/) and [**Slava Romanov**](https://dribbble.com/shots/3839839-Work-Work-Work) for GIFs. 
