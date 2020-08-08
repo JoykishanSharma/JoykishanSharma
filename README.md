@@ -6,16 +6,14 @@ I'm Joykishan! I'm a Android Developer, looking to solve real-world problems. I'
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/onimur)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/JoykishanSharma)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_comino/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:murillo_comino@hotmail.com)
+[![HackerRank](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white)](https://www.hackerrank.com/Joykishan)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joykishan_sharma)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joykishan120@gmail.com)
+
 <br>
 ![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
 [![HitCount](http://hits.dwyl.com/joykishansharma/https://githubcom/JoykishanSharma/JoykishanSharma.svg)](http://hits.dwyl.com/joykishansharma/https://githubcom/JoykishanSharma/JoykishanSharma)
-
-<br>
 
 ### 💼  Things that I'm currently working on: 
 * Learning Front-End Web Development
@@ -64,9 +62,9 @@ Since the world is in the quarantine stage, and I’m having lots of spare time,
 ---
 
 ### Credit to 
--  Mandragora Estudio **for GIF**. 
+-  Mandragora Estudio [**for GIF**](https://dribbble.com/shots/9344637-working-hard). 
 
-https://dribbble.com/shots/9344637-working-hard
+
 
 <!--
 **JoykishanSharma/JoykishanSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
