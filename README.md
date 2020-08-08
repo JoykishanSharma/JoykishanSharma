@@ -17,6 +17,8 @@ I'm Joykishan! I'm a Android Developer, looking to solve real-world problems. I'
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
+<img align="right" alt="GIF" width="500" src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/work_work_work.gif" />
+
 ### 💼  Things that I'm currently working on: 
 * Learning Front-End Web Development
 * Learning some vectors drawing by using Adobe Illustrator. 
@@ -77,7 +79,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 
 ### Credit to 
-- [**GIPHY**](https://giphy.com/) and [**Mandragora Estudio**](https://dribbble.com/shots/9344637-working-hard) for GIFs. 
+- [**GIPHY**](https://giphy.com/) and [**Slava Romanov**](https://dribbble.com/shots/3839839-Work-Work-Work) for GIFs. 
 
 
 
