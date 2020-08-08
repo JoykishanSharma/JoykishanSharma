@@ -1,6 +1,6 @@
 # Hi there :smiley:
 
-I'm Joykishan! I'm a Android Developer, looking to solve real-world problems. I'm passionate about making open-source more accessible, creating software and tools to help people, and building a community.
+I'm Joykishan! I'm a Android Developer, looking to solve real-world problems. I'm passionate about making open-source more accessible, creating software and tools to help people, and building a community. Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.
 
 ### 💼  Things that I'm currently working on: 
 * Learning Front-End Web Development
@@ -48,13 +48,15 @@ Since the world is in the quarantine stage, and I’m having lots of spare time,
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
+
 <p align="center">
   <a href="http://hits.dwyl.com/onimur/onimur" target="_blank">
     <img align="center" alt="HitCount" src="http://hits.dwyl.com/onimur/onimur.svg" />
   </a>
     <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=onimur.onimur" />
 </p>
+-->
+
 
 **Connect with me:**
 <p align="left">
@@ -65,13 +67,6 @@ Both apis are in trouble due to the number of requests, if you know any other to
   <a href="https://www.goodreads.com/user/show/83098234-vatana-chhorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/goodreads.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
    <a href="https://unsplash.com/@vatanachhorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unsplash.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
-
-
-Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.  
-
-<img src="https://komarev.com/ghpvc/?username=VatanaChhorn" alt="VatanaChhorn" />
-
-![Joykishan's Github stats](https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true)
 
 ---
 
