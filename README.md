@@ -34,7 +34,7 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 * Read:newspaper: Dev and UI articles daily 
 * Workout:weight_lifting_man: 3 days in a row and take a day break 
 * Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
-* Write Medium Article:page_facing_up: on weekends 
+
 * Adapting the minimalism life style
 * 🔜
 
