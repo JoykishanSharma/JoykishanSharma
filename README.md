@@ -82,7 +82,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 <!-- Credit -->
 ### Credit to 
-- [**GIPHY**](https://giphy.com/) and [**Slava Romanov**](https://dribbble.com/shots/3839839-Work-Work-Work) for GIFs. 
+- [**GIPHY**](https://giphy.com/) for GIFs. 
 
 
 
