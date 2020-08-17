@@ -19,7 +19,7 @@ I'm Joykishan! I'm a **Android Developer**:iphone:, looking to solve **real-worl
 [![Google Playstore](https://img.shields.io/badge/-Joy_Apps_Developers_Team-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN)
 
 <!-- Working GIF -->
-<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" height="300" />
+<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" height="250" />
 
 ### 💼  Things that I'm currently working on: 
 * Learning Front-End Web:computer: Development
