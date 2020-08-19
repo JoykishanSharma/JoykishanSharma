@@ -15,10 +15,8 @@ I'm Joykishan! I'm a **Android Developer**:iphone:, looking to solve **real-worl
 [![Medium](https://img.shields.io/badge/-@joykishan120-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@joykishan120)
 [![Instagram](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joykishan_sharma)
 
-<!-- Profile View Count -->
+<!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
-
-<!-- GitStats -->
 [![Github](https://img.shields.io/badge/-joykishan_sharma-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/JoykishanSharma)
 
 <!-- Working GIF -->
