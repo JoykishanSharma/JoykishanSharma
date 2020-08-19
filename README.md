@@ -17,7 +17,7 @@ I'm Joykishan! I'm a **Android Developer**:iphone:, looking to solve **real-worl
 
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
-[![Github](https://img.shields.io/badge/-joykishan_sharma-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/JoykishanSharma)
+[![Github](https://img.shields.io/badge/-JoykishanSharma-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/JoykishanSharma)
 
 <!-- Working GIF -->
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" height="250" />
