@@ -21,7 +21,7 @@ I'm Joykishan! I'm a **Android Developer**:iphone:, looking to solve **real-worl
 [![Github](https://img.shields.io/badge/-JoykishanSharma-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/JoykishanSharma)
 
 <!-- gif Image -->
-<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/sidegif.gif" alt="side Image" align="right" width="280" />
+<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="280" />
 
 ### 💼  Things that I'm currently working on: 
 * Learning Front-End Web:computer: Development
