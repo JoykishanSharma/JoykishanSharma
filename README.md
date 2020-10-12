@@ -23,7 +23,7 @@ I'm Joykishan! I'm a **Android Developer**:iphone:, looking to solve **real-worl
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
 ### 💼  Things that I'm currently working on: 
-* Learning Flutter, very excited to make some awesome looking Futter Apps. 
+* Learning Flutter, very excited to make some awesome looking Flutter Apps. 
 * Learning some vectors drawing:art: by using Adobe Illustrator.
 * 🔜
 
