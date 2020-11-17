@@ -23,14 +23,14 @@ I'm Joykishan! I'm a **Android Developer**:iphone:, looking to solve **real-worl
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
 ### 💼  Things that I'm currently working on: 
-* Learning Flutter, very excited to make some awesome looking Flutter Apps. 
-* Learning some vectors drawing:art: by using Adobe Illustrator.
+* New updates for my apps 
+* Vanilla Javascript
 * 🔜
 
 ### 🌱 Challenges that I’m currently challenging myself:
 Since the world is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
 
-* Learn to code:man_technologist: 3-4 hours a day with no distraction ( One or two day off a week. ) 
+* Learn to code:man_technologist: 5-6 hours a day with no distraction ( One or two day off a week. ) 
 * Read:newspaper: Dev and UI articles daily 
 * Workout:weight_lifting_man: 3 days in a row and take a day break 
 * Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
