@@ -84,7 +84,3 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <!-- Credit -->
 ### Credit to 
 - [**GIPHY**](https://giphy.com/) and [Galshir](https://galshir.com/) for GIFs
-
-
-
-
