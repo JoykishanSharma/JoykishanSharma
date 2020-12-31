@@ -88,7 +88,5 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 
 <!--
-
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
