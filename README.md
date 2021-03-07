@@ -23,8 +23,10 @@ I'm Joykishan! I'm a **Android Developer**:iphone:, looking to solve **real-worl
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
 ### 💼  Things that I'm currently working on: 
-* New updates for my apps 
-* Vanilla Javascript
+* Web Dev 
+* And Web Dev
+* And only Web Dev
+* Coz I wanna be a better Web Dev 😍
 * 🔜
 
 ### 🌱 Challenges that I’m currently challenging myself:
