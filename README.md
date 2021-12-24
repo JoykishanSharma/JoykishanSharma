@@ -24,8 +24,9 @@ I'm Joykishan! I'm a **Android Developer**:iphone:, looking to solve **real-worl
 
 <!-- current status -->
 ### 💼  Things that I'm currently working on: 
-* Data Structures and Algorithms 💫
-* Kotlin
+<!-- * Data Structures and Algorithms 💫
+* Kotlin -->
+* Flutter
 * Some Personal Projects 😍
 * 🔜
 
