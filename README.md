@@ -24,18 +24,18 @@ I'm Joykishan! I'm a **Android Developer**:iphone:, looking to solve **real-worl
 
 <!-- current status -->
 ### 💼  Things that I'm currently working on: 
-<!-- * Data Structures and Algorithms 💫
-* Kotlin -->
+<!-- * Data Structures and Algorithms 💫 -->
+* Dart 
 * Flutter
 * Some Personal Projects 😍
 * 🔜
 
-### 🌱 Challenges that I’m currently challenging myself:
-Since the World is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
+### 🌱 Challenges on board:
+I decided to focus myself on feeding more knowledge:books: to my brain. I set a couple of self-challenges in order to push myself more further.:running: 
 
 * Learn to code:man_technologist: 5-6 hours a day with no distraction ( One or two day off a week. ) 
 * Read:newspaper: Dev and UI articles daily 
-* Workout:weight_lifting_man: 3 days in a row and take a day break 
+* Workout:weight_lifting_man: 5 days in a row and take a day break 
 * Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
 * Adapting the minimalism life style
 * 🔜
